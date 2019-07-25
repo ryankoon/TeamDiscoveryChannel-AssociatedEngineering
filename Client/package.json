@@ -1,0 +1,36 @@
+{
+  "name": "associated_engineering",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "bootstrap": "3",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9",
+    "react": "^16.2.0",
+    "react-banner": "^0.4.0",
+    "react-bootstrap": "^0.32.1",
+    "react-bootstrap-typeahead": "^2.5.1",
+    "react-confirm-bootstrap": "^5.1.1",
+    "react-dom": "^16.2.0",
+    "react-icons": "^2.2.7",
+    "react-load-overlay": "^0.2.2",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "^1.1.0",
+    "react-table": "^6.7.6",
+    "url-search-params-polyfill": "^3.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "cypress:open": "cypress open",
+    "cypress:record": "cypress run --record --key f744cf84-d1e7-4a5e-a28c-2d4a6409e928"
+  },
+  "devDependencies": {
+    "cypress": "^2.1.0"
+  }
+}

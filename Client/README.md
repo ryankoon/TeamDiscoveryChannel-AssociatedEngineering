@@ -1,0 +1,1 @@
+[![pipeline status](https://gitlab.com/cpsc3192017w2/ae/Discovery-Channel/Client/badges/master/pipeline.svg)](https://gitlab.com/cpsc3192017w2/ae/Discovery-Channel/Client/commits/master)

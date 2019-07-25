@@ -1,0 +1,83 @@
+.App {
+    text-align: center;
+}
+
+.App-logo {
+    margin-top: -30px;
+    height: 80px;
+    float: left;
+}
+
+.App-header {
+    background-color: #32CD32;
+    height: 100px;
+    padding: 20px;
+    color: white;
+}
+
+.App-title {
+    font-size: 1.5em;
+}
+
+.App-intro {
+    font-size: large;
+}
+
+.navbar {
+    border-radius: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.navbar li {
+    padding-top: 16px;
+}
+
+/*Bootstrap Overrides*/
+.btn-success {
+    background-color: #57b431;
+}
+
+.btn-success:hover {
+    background-color: #2e7510;
+}
+
+.btn-primary {
+    background-color: #00569c;
+}
+
+.btn-primary:hover {
+    background-color: #003765;
+}
+
+.btn-warning {
+    background-color: #F8AA3E;
+}
+
+.btn-warning:hover {
+    background-color: #F28c00;
+}
+
+.btn-danger {
+    background-color: #C4354F;
+}
+
+.btn-danger:hover {
+    background-color: #cc0000;
+}
+
+.navbar {
+    background-color: #57b431;
+    border: none;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+    font-size: large;
+}
+
+.navbar-default .nav.navbar-nav.navbar-right> li > a {
+    color: #fff;
+    font-size: medium;
+    font-weight: normal;
+}
